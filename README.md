@@ -15,6 +15,7 @@ This sample uses the Gradle build system. To build this project, use the
 ## Screenshots
 Course project demo video: 
 https://www.youtube.com/watch?v=Xn0Uz_9qAbI&feature=youtu.be
+
 ![]()
 <img src="https://github.com/johnnyko28/Android-Development-Miwok/blob/lesson-one/Screenshots/1.png" width="550" height="400">
 <br>
